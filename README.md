@@ -1,2 +1,2 @@
 My first readme
-ALx is amazing
+ALX is amazing
